@@ -4,4 +4,4 @@ Telegram Bot for dark image enhancement
 
 Based on cnn
 
-Denoising, deblurring, demosaiking - work in progress
+Denoising, deblurring, demosaicing - work in progress
